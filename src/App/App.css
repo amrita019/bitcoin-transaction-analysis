@@ -1,0 +1,28 @@
+.main {
+  background-color: #fcfcfc;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.VictoryContainer {
+  max-width: 700px;
+  margin: auto;
+}
+.search {
+  width: 70%;
+  border-top: 0ch;
+  border-left: 0ch;
+  border-right: 0ch;
+  align-self: center;
+  justify-content: center;
+  margin-left: 12px;
+}
+.search:focus {
+  outline: none;
+}
+.searchIcon {
+  padding-left: 8px;
+}
